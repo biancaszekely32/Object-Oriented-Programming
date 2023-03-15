@@ -1,0 +1,3 @@
+﻿  console.c
+C:\Users\user\Desktop\OOP2\lab2\lab2\console.c(145,9): warning C4101: 'criteria': unreferenced local variable
+  lab2.vcxproj -> C:\Users\user\Desktop\OOP2\lab2\x64\Debug\lab2.exe
